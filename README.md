@@ -17,6 +17,10 @@ Through-hole LED
 
 5V power supply (Stlink can be used)
 
+![STM8_Blink_Schematic](https://user-images.githubusercontent.com/63069506/101988578-8a29c700-3cab-11eb-9679-e9ff44c97c99.jpg)
+
+                                                  Connections
+
 
 
 
