@@ -1,4 +1,4 @@
-# STM8S103F2
+# STM8S103F3
 
  In this example we programmed STM8S103F3 to blink.
 
